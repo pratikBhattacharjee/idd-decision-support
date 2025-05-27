@@ -108,7 +108,7 @@ const quizData = {
           id: "q4_1",
           text: "Has the project contract been customised to accommodate the unfamiliar conditions associated with IDD adoption?",
           weight: 0.26,
-          recommendation: "Consider amending contract documents with parties involved to incorporate peculiar risks assciated with IDD"
+          recommendation: "Consider amending contract documents with parties involved to incorporate peculiar risks associated with IDD"
         },
         {
           id: "q4_2",
@@ -120,7 +120,7 @@ const quizData = {
           id: "q4_3",
           text: "Does your organisation have the technology infrastructure to support IDD?",
           weight: 0.26,
-          recommendation: "Consider improving technology infrastructure with digital tools aligned with IDD or partner with a well-resource institution to make use their resources "
+          recommendation: "Consider improving technology infrastructure with digital tools aligned with IDD or partner with a well-resourced institution to make use of their resources "
         },
         {
           id: "q4_4",
@@ -177,11 +177,11 @@ const quizData = {
           id: "q7_1",
           text: "Are there modular unit manufacturers in Hong Kong?",
           weight: 0.50,
-          recommendation: "Consider contacting modular fabricators oversees at the earliest stages to ascertain their availability "
+          recommendation: "Consider contacting modular fabricators overseas at the earliest stages to ascertain their availability "
         },
         {
           id: "q7_2",
-          text: "Have identified suppliers and vendors in Hong Kong with the capacity to provide the requisite product and services?",
+          text: "Have you identified suppliers and vendors in Hong Kong with the capacity to provide the requisite product and services?",
           weight: 0.50,
           recommendation: "Consider undertaking a market survey to identify potential suppliers and vendors both within and outside Hong Kong"
         },
