@@ -21,13 +21,13 @@ const HomeScreen = () => {
               Welcome to the IDD Decision System, developed by Joshua Larbi.
             </p>
             <p>
-              This assessment will help you determine if an Integrated Design Delivery (IDD) 
+              This assessment will help you determine if an Integrated Digital Delivery (IDD) 
               approach is suitable for your construction project.
             </p>
             <div className="idd-definition">
               <h3>What is IDD?</h3>
               <p>
-                IDD is a project lifecycle delivery approach that employs Design Thinking (DT) 
+                IDD is a project lifecycle delivery approach that employs Digital Technologies (DT) 
                 to seamlessly integrate work processes and stakeholders.
               </p>
             </div>
